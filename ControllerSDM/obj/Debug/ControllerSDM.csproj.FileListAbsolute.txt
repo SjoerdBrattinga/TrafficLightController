@@ -1,0 +1,13 @@
+C:\Users\Brattinga\source\repos\ControllerSDM\ControllerSDM\bin\Debug\ControllerSDM.exe.config
+C:\Users\Brattinga\source\repos\ControllerSDM\ControllerSDM\bin\Debug\ControllerSDM.exe
+C:\Users\Brattinga\source\repos\ControllerSDM\ControllerSDM\bin\Debug\ControllerSDM.pdb
+C:\Users\Brattinga\source\repos\ControllerSDM\ControllerSDM\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Brattinga\source\repos\ControllerSDM\ControllerSDM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Brattinga\source\repos\ControllerSDM\ControllerSDM\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Brattinga\source\repos\ControllerSDM\ControllerSDM\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Brattinga\source\repos\ControllerSDM\ControllerSDM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Brattinga\source\repos\ControllerSDM\ControllerSDM\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Brattinga\source\repos\ControllerSDM\ControllerSDM\obj\Debug\ControllerSDM.csproj.CoreCompileInputs.cache
+C:\Users\Brattinga\source\repos\ControllerSDM\ControllerSDM\obj\Debug\ControllerSDM.exe
+C:\Users\Brattinga\source\repos\ControllerSDM\ControllerSDM\obj\Debug\ControllerSDM.pdb
+C:\Users\Brattinga\source\repos\ControllerSDM\ControllerSDM\obj\Debug\ControllerSDM.csprojResolveAssemblyReference.cache
